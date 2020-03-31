@@ -1,0 +1,141 @@
+body {
+    background-color: #ebebeb;
+    margin: 10 px;
+    padding:20px;
+}
+
+.navbar{
+    background-color: #3ebbc1;
+    color:#3ebbc1;  
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color: #3ebbc1;
+    color:#3ebbc1; }
+.navbar-brand {
+    background-color: #3ebbc1;
+    color:#3ebbc1;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: static;
+}
+
+.navbar li a{
+    background-color: #3ebbc1;
+    color:white;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: static;
+    text-align: center;
+    text-decoration: none;
+
+}
+.row.text { display: inline;
+    -ms-wrap-margin: 10px;
+    position: relative;
+    color:black;
+    text-decoration: none;}
+/* this applied to most of the p text */
+.text {
+
+    display: inline;
+    margin: 10px;
+    position: relative;
+    color:black;
+    text-decoration: none;
+
+
+.container {
+    color: #3ebbc1;
+    background-color: whitesmoke;
+    font-family: Georgia, serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 30px;
+
+
+}    
+
+
+.box1 {
+
+    background-color: white;
+    color: #3ebbc1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 30px;
+    padding-bottom: 0px;
+
+}
+
+.image {
+
+    position: sticky;
+    overflow: auto;
+    max-width: 100%
+
+}
+
+.bodytext {
+
+    color:black;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    word-wrap: normal;
+
+
+}
+
+.box2 {
+
+    background-color: white;
+    color: #3ebbc1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+
+}
+.list-unstyled {
+    display:inline-flex
+    padding: 0px;
+    margin: 0 auto;
+    background: white;
+    text-align:center;
+}
+
+.border {
+    border:solid;
+    border-color: #3ebbc1;
+    border-width: 10px;
+}
+
+.table {
+    overflow-y: hidden;
+    color:black;
+    background-color: white;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    word-wrap: normal;
+
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+
